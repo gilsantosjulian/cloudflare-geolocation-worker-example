@@ -98,11 +98,11 @@ async function handleRequest(request) {
 
 
 ### US - Example
+<img width="767" alt="Pasted Graphic 3" src="https://user-images.githubusercontent.com/23086872/219118597-4ab59074-c996-49b5-82e1-135647bb511b.png">
 
 
 ### CA - Example
-
-
+<img width="795" alt="Pasted Graphic 2" src="https://user-images.githubusercontent.com/23086872/219118637-7c7f29c1-68b0-4735-b9df-f7953ded45bc.png">
 
 ### Posible issues
 
