@@ -54,7 +54,7 @@ The *“cf”* object contains two important parameters for our use case.
 
   - ```wrangler dev --local index.js```
 
-  -*—local* flag run the preview of the Worker directly on your local machine (local browser) - easy to test
+  - *—local* flag run the preview of the Worker directly on your local machine (local browser) - easy to test
 
   - Automatically the browser will be open showing some data fields described on the worker
 
